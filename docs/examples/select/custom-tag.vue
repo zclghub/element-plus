@@ -12,7 +12,7 @@
       </div>
     </el-option>
     <template #tag>
-      <el-tag v-for="color in value" :key="color" :color="color" />
+      
     </template>
   </el-select>
 </template>
